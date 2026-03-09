@@ -1,5 +1,5 @@
 {
-  "name": "chrono-lite",
+  "name": "nanochrono",
   "version": "1.0.0",
   "description": "A lightweight human-readable time formatter (<1kb)",
   "type": "module",
